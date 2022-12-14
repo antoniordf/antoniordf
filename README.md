@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
 <h3 align="center">A Finance and Business professional turned Software Developer</h3>
-After years in the finance and banking industry and being a hobbyist programmer, I have decided to take the plunge and become a fully fledged software developer. In particular, I am really excited about the developments in Blockchain and Web3, and look forward to earn my stripes as a degen in that sector.
+After years in the finance and banking industry and being a hobbyist programmer, I have decided to take the plunge and become a fully fledged software developer. 
+
+I have recently completed a Full-stack Software Engineering bootcamp at Le Wagon and built a mobile NFT Portfolio Tracker using Ruby on Rails. I also have experience using Python and Flask.
+
+I am really excited about the developments in Blockchain and Web3, and look forward to earn my stripes as a degen in that sector.
 
 - 🌱 I’m currently learning **Solidity and smart contract development**
 
