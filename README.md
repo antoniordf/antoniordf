@@ -10,7 +10,7 @@ After years in the finance and banking industry and being a hobbyist programmer,
 
 - ⚡ Fun fact **I actually do think I am funny.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/antoniofurtado/</h3>
 <p align="left">
 </p>
 
