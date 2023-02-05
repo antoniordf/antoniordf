@@ -12,7 +12,7 @@ I am really excited about the developments in Blockchain and Web3, and look forw
 
 - 💬 Ask me about DeFi, TradFi, Venture Investing, Macro Investing and Software Development.
 
-- ⚡ Fun fact **I actually do think I am funny.**
+- ⚡ **
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/antoniofurtado/</h3>
 <p align="left">
