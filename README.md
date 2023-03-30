@@ -4,8 +4,6 @@ After years in the finance and banking industry and being a hobbyist programmer,
 
 I have recently completed a Full-stack Software Engineering bootcamp at Le Wagon and built a mobile NFT Portfolio Tracker using Ruby on Rails. I also have experience using Python and Flask.
 
-I am really excited about the developments in Blockchain and Web3, and look forward to earn my stripes as a degen in that sector.
-
 - 🌱 I’m currently learning **Solidity and smart contract development**
 
 - 👯 I’m looking to collaborate on **Smart Contract, Blockchain and Web3 projects**
