@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Antonio</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A Finance and Business professional turned Software Developer</h3>
 After years in the finance and banking industry and being a hobbyist programmer, I have decided to take the plunge and become a fully fledged software developer. 
 
